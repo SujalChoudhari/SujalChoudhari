@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NotSujal
+- 👀 I’m interested in python, cpp, csharp, game development, and all sorts of things
+- 🌱 I’m currently learning python, cpp, unity engine
+- 📫 How to reach me https://discord.gg/5jjqnNpZ
