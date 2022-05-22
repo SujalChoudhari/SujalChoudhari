@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working of games and some applications. My recent project is [Neptune.js](https://GitHub.com/NotSujal/Neptune.js)
 
-- 🌱 I’m currently learning **Unity Engine, Unreal Engine, Python C++, C# and Javascript**
+- 🌱 My major languages and tools are **Visual Studio, Visual Studio Code, Unity Engine, Godot Engine, Python C++, C# and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://sujalchoudhari.me](https://sujalchoudhari.me)
 
@@ -17,16 +17,16 @@
 
 - 💬 Ask me about **Game Development, Bot Development, etc**
 
-- 📫 How to reach me **sjlchoudhari@gmail.com**
+- 📫 How to reach me? **sjlchoudhari@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me at,</h3>
 <p align="center">
 <a href="https://twitter.com/not_sujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_sujal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14603872/sujal-choudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sujal choudhari" height="30" width="40" /></a>
 <a href="https://instagram.com/not.sujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.sujal" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools I have used,</h3>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
