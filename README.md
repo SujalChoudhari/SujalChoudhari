@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notsujal&label=Profile%20views&color=000000&style=flat" alt="notsujal" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsujal" alt="notsujal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsujal&theme=onedark" alt="notsujal" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/not_sujal" target="blank"><img src="https://img.shields.io/twitter/follow/not_sujal?logo=twitter&style=for-the-badge" alt="not_sujal" /></a> </p>
 
