@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsujal&theme=onedark" alt="notsujal" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/not_sujal" target="blank"><img src="https://img.shields.io/twitter/follow/not_sujal?logo=twitter&style=for-the-badge" alt="not_sujal" /></a> </p>
+<p align="center"> <a href="https://twitter.com/Sujal212004" target="blank"><img src="https://img.shields.io/twitter/follow/Sujal212004?logo=twitter&style=for-the-badge" alt="Sujal212004" /></a> </p>
 
 - 🔭 I’m currently working of games and some applications. My recent project is [Neptune.js](https://GitHub.com/NotSujal/Neptune.js)
 
@@ -21,9 +21,9 @@
 
 <h3 align="center">Connect with me at,</h3>
 <p align="center">
-<a href="https://twitter.com/not_sujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_sujal" height="30" width="40" /></a>
+<a href="https://twitter.com/Sujal212004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_sujal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14603872/sujal-choudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sujal choudhari" height="30" width="40" /></a>
-<a href="https://instagram.com/not.sujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.sujal" height="30" width="40" /></a>
+<a href="https://instagram.com/_sujal_choudhari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.sujal" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools I have used,</h3>
