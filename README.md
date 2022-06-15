@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sujal</h1>
 <h3 align="center">I am Computer Science Student.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=notsujal&label=Profile%20views&color=000000&style=flat" alt="notsujal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=000000&style=flat" alt="notsujal" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notsujal&theme=onedark" alt="notsujal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujalchoudhari&theme=onedark" alt="notsujal" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/Sujal212004" target="blank"><img src="https://img.shields.io/twitter/follow/Sujal212004?logo=twitter&style=for-the-badge" alt="Sujal212004" /></a> </p>
 
@@ -21,9 +21,9 @@
 
 <h3 align="center">Connect with me at,</h3>
 <p align="center">
-<a href="https://twitter.com/Sujal212004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_sujal" height="30" width="40" /></a>
+<a href="https://twitter.com/Sujal212004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujalchoudhari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14603872/sujal-choudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sujal choudhari" height="30" width="40" /></a>
-<a href="https://instagram.com/_sujal_choudhari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.sujal" height="30" width="40" /></a>
+<a href="https://instagram.com/_sujal_choudhari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujalchoudhari" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools I have used,</h3>
@@ -83,8 +83,8 @@
   </a>
 </p>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notsujal&show_icons=true&theme=dark&locale=en&layout=compact" alt="notsujal" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalchoudhari&show_icons=true&theme=dark&locale=en&layout=compact" alt="sujalchoudhari" /></p>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notsujal&show_icons=true&theme=dark&locale=en" alt="notsujal" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalchoudhari&show_icons=true&theme=dark&locale=en" alt="sujalchoudhari" /></p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsujal&theme=dark" alt="notsujal" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalchoudhari&theme=dark" alt="sujalchoudhari" /></p>
