@@ -20,7 +20,7 @@ I am a Computer Science Student. <br>I am comfortable with Python, C++,C#, Java 
 
 ## Python
 - [Indie](https://github.com/SujalChoudhari/Indie) - Indie is a 2d game framework, it works on top of pygame for fast game creations.
-- [Cyber](https://github.com/SujalChoudhari/CyberBot) - A Multipurpose discord bot.
+- [Cyber](https://github.com/SujalChoudhari/Cyber) - A Multipurpose discord bot.
 - [HousingPricePredictor](https://github.com/SujalChoudhari/HousePricePredictor) - Predicts Prices of House with decent accuracy.
 - [ArchiveManager](https://github.com/SujalChoudhari/ArchiveManager) - Create Archives, Update files, Create backups, etc.
 - [8085 Assembly Translator](https://github.com/SujalChoudhari/8085AssemblyTranslator) - Translate 8085 assembly into Hexcode.
