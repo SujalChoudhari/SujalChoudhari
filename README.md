@@ -40,6 +40,7 @@ I am a Computer Science Student. <br>I am comfortable with Python, C++,C#, Java 
 - [Django (Python)](https://github.com/SujalChoudhari/Django-Apps) - Demo Apps for lerning purpose.
 - [Portfolio React](https://github.com/SujalChoudhari/Portfolio-React) - Portfolio Made in React (teleporthq.io)
 - [Ceramics Shop Website Clone](https://github.com/SujalChoudhari/CeramicShopWebsiteClone) - Clone website
+- [EV Shop Website Clone](https://github.com/SujalChoudhari/EVShopWebsiteClone) - Clone website
 
 
 ## Java
