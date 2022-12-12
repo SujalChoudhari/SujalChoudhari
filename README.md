@@ -15,11 +15,7 @@ I am a Computer Science Student. <br>I am comfortable with Python, C++,C#, Java 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SujalChoudhari&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-# 📊 Github Activity Graph
-[![Sujal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SujalChoudhari&theme=one-dark)](https://github.com/sujalchoudhari/github-readme-activity-graph)
-
 # 📂 My Projects
-
 ## Python
 - [Indie](https://github.com/SujalChoudhari/Indie) - Indie is a 2d game framework, it works on top of pygame for fast game creations.
 - [Cyber](https://github.com/SujalChoudhari/Cyber) - A Multipurpose discord bot.
