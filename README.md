@@ -1,9 +1,9 @@
-# 💫 About Me:
+# 💫 About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=flat" alt="notsujal" align="right" />
 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (First Year) <br>
 🤝 I am always up for collabs and fun projects. <br>
 ✉️ Dm me for the same. <br/>
 🛌 I am comfortable with Python, C++,C#, Java and Javascript.<br>
- <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=000000&style=flat" alt="notsujal" />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sujal_choudhari_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14603872) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sujal212004) 
