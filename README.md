@@ -20,37 +20,3 @@
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SujalChoudhari&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-# 📂 My Projects
-## Python
-- [Indie](https://github.com/SujalChoudhari/Indie) - Indie is a 2d game framework, it works on top of pygame for fast game creations.
-- [Cyber](https://github.com/SujalChoudhari/Cyber) - A Multipurpose discord bot.
-- [HousingPricePredictor](https://github.com/SujalChoudhari/HousePricePredictor) - Predicts Prices of House with decent accuracy.
-- [ArchiveManager](https://github.com/SujalChoudhari/ArchiveManager) - Create Archives, Update files, Create backups, etc.
-- [8085 Assembly Translator](https://github.com/SujalChoudhari/8085AssemblyTranslator) - Translate 8085 assembly into Hexcode.
-- [NLang](https://github.com/SujalChoudhari/NLang) - A Interprated Language.
-- [TemplateAutometa](https://github.com/SujalChoudhari/TemplateAutometa) - Generate hundreds of files from a single template and changes stored in a config file.
-- [KingdomRPG](https://github.com/SujalChoudhari/KingdomRPG) - A Text RPG game made for Discord. (Multiplayer and Exploration)
-- [TaggerBot](https://github.com/SujalChoudhari/TaggerBot) - Discord Bot made for Quick Searches in the data accumulated overtime.
-
-## C++
-- [Algorithms](https://github.com/SujalChoudhari/CppAlgorithms) - Basic Sorting and Searching Algorithms
-- [Turing Machine](https://github.com/SujalChoudhari/TuringMachine) - A silly little turing machine
-- [Tachyon Robot](https://github.com/SujalChoudhari/TachyonRobot) - An Arduino based obstacle detection and accident prevention robot. Controlled by Tachyon Controller 
-
-## Web (HTML, CSS, JavaScript)
-- [Neptune.js](https://github.com/SujalChoudhari/Neptune.js) - A complete, 2d game engine made with html canvas.
-- [FastPresentation](https://github.com/SujalChoudhari/FastPresentation) - A Utility to generate presentations.
-- [Blog Next.js](https://github.com/SujalChoudhari/NextJs-Blog) - A Demo Blog.
-- [Django (Python)](https://github.com/SujalChoudhari/Django-Apps) - Demo Apps for lerning purpose.
-- [Portfolio React](https://github.com/SujalChoudhari/Portfolio-React) - Portfolio Made in React (teleporthq.io)
-- [Ceramics Shop Website Clone](https://github.com/SujalChoudhari/CeramicShopWebsiteClone) - Clone website
-- [EV Shop Website Clone](https://github.com/SujalChoudhari/EVShopWebsiteClone) - Clone website
-
-
-## Java
-- [Notes](https://github.com/SujalChoudhari/JavaNotes) - Notes Generated while learning java.
-- [Seat Allotment System](https://github.com/SujalChoudhari/SeatAllotmentSystem) - A Syetem like CetCell to Assign Seats for candidates as per preferences.
-- [Parser and Lexer](https://github.com/SujalChoudhari/AnotherLanguage) - A Lexer and Parser for CLI Operations
-- [Tachyon Controller](https://github.com/SujalChoudhari/TachyonController) - A Android Application to control a bluetooth based robot.
-
