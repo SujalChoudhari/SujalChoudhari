@@ -1,5 +1,5 @@
 # 💫 About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=flat" alt="notsujal" align="right" />
-👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (First Year) <br>
+👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year) <br>
 🤝 I am always up for collabs and fun projects. <br>
 ✉️ Dm me for the same. <br/>
 🛌 I am comfortable with Python, C++,C#, Java and Javascript.<br>
