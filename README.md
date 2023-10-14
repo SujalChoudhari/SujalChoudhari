@@ -7,6 +7,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sujal_choudhari_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14603872) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sujal212004) 
+## 🥇Badges
+[![An image of @sujalchoudhari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalchoudhari)](https://holopin.io/@sujalchoudhari)
 
 # 💻 Tech Stack:<div align="center">
 <div align="center">
