@@ -1,4 +1,4 @@
-z# <img src="https://lh3.googleusercontent.com/a/AAcHTtfQDIfhAd-iM3xnyuOF0_J_y8F-hNmSLdueYTFr4-JV68s=s30-c-no" style="border-radius:50%;transform:translateY(5px)" />  About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
+# <img src="https://lh3.googleusercontent.com/a/AAcHTtfQDIfhAd-iM3xnyuOF0_J_y8F-hNmSLdueYTFr4-JV68s=s30-c-no" style="border-radius:50%;transform:translateY(5px)" />  About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year) <br>
 🤝 I am always up for collabs and fun projects. <br>
 ✉️ Dm me for the same. <br/>
