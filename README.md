@@ -1,4 +1,4 @@
-# <img src="https://lh3.googleusercontent.com/a/AAcHTtfQDIfhAd-iM3xnyuOF0_J_y8F-hNmSLdueYTFr4-JV68s=s30-c-no" style="border-radius:50%;transform:translateY(5px)" />  About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
+z# <img src="https://lh3.googleusercontent.com/a/AAcHTtfQDIfhAd-iM3xnyuOF0_J_y8F-hNmSLdueYTFr4-JV68s=s30-c-no" style="border-radius:50%;transform:translateY(5px)" />  About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year) <br>
 🤝 I am always up for collabs and fun projects. <br>
 ✉️ Dm me for the same. <br/>
@@ -72,6 +72,16 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint"/></td>
+		</tr>
+		<tr>
+			<td><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></td>
+			<td><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></td>
+			<td><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></td>
+			<td><img height="50" width="50" src="https://docs.soliditylang.org/en/latest/_static/img/logo.svg" alt="Solidity" title="Solidity"/></td>
+			<td><img height="50" width="50" src="https://blog.mexc.com/wp-content/uploads/2023/01/OpenZeppelin.png" alt="Openzeppelin" title="Openzeppelin"/></td>
+			<td><img height="50" width="50" src="https://avatars.githubusercontent.com/u/72537454?s=280&v=4" alt="Cargo" title="Cargo"/></td>
+			<td><img height="50" width="50" src="https://avatars.githubusercontent.com/u/6250754?v=4&s=400" alt="Etherium" title="Etherium"/></td>
+			<td><img height="50" width="50" src="https://moonbeam.network/wp-content/uploads/2021/10/remix-500.png" alt="Remix" title="Remix"/></td>
 		</tr>
 	</table>
 </div>
