@@ -95,8 +95,10 @@
 # 📊 GitHub Stats:
 [![SujalChoudhari's GitHub | Stats](https://stats.quine.sh/SujalChoudhari/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujalChoudhari)
 [![SujalChoudhari's GitHub | Dependencies](https://stats.quine.sh/SujalChoudhari/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujalChoudhari)
+[![SujalChoudhari's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalChoudhari&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![SujalChoudhari's GitHub | Topics Over Time](https://stats.quine.sh/SujalChoudhari/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujalChoudhari)
 [![SujalChoudhari's GitHub | Languages Over Time](https://stats.quine.sh/SujalChoudhari/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujalChoudhari)
+
 
 
 ## 🏆 GitHub Trophies
