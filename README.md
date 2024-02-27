@@ -1,8 +1,14 @@
-# <img src="https://lh3.googleusercontent.com/a/AAcHTtfQDIfhAd-iM3xnyuOF0_J_y8F-hNmSLdueYTFr4-JV68s=s30-c-no" style="border-radius:50%;transform:translateY(5px)" />  About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
-👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year) <br>
-🤝 I am always up for collabs and fun projects. <br>
-✉️ Dm me for the same. <br/>
-🛌 I am comfortable with Python, C++,C#, Java and Javascript.<br>
+# <img src="https://lh3.googleusercontent.com/a/AAcHTtfQDIfhAd-iM3xnyuOF0_J_y8F-hNmSLdueYTFr4-JV68s=s30-c-no" style="border-radius:30px;transform:translateY(5px)" />  About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
+- 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year)
+- 🤝 I am always up for collabs and fun projects.
+- ✉️ Dm me for the same.
+- 🛌 I am comfortable with Python, C++,C#, Java and Javascript.
+
+##  🎖️Achievements:
+- 🥇 Winner in **Smart India Hackathon 23**
+- 🥇 Winner in **SPIT24** Hackathon by SPIT chapter of **Computer Society of India** 
+- 🥇 Winner in **Hackniche 2.0** Hackathon by DJSCE chapter of **Google Developer Student Club** 
+- 🥈 **TSECHacks24** Hackathon 1st Runner Up
 
 
 ## 🌐 Socials:
@@ -74,14 +80,14 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint"/></td>
 		</tr>
 		<tr>
-			<td><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></td>
-			<td><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></td>
-			<td><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></td>
-			<td><img height="50" width="50" src="https://docs.soliditylang.org/en/latest/_static/img/logo.svg" alt="Solidity" title="Solidity"/></td>
-			<td><img height="50" width="50" src="https://blog.mexc.com/wp-content/uploads/2023/01/OpenZeppelin.png" alt="Openzeppelin" title="Openzeppelin"/></td>
-			<td><img height="50" width="50" src="https://avatars.githubusercontent.com/u/72537454?s=280&v=4" alt="Cargo" title="Cargo"/></td>
-			<td><img height="50" width="50" src="https://avatars.githubusercontent.com/u/6250754?v=4&s=400" alt="Etherium" title="Etherium"/></td>
-			<td><img height="50" width="50" src="https://moonbeam.network/wp-content/uploads/2021/10/remix-500.png" alt="Remix" title="Remix"/></td>
+			<td><img style="height: 50px; width: auto;" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></td>
+			<td><img style="height: 50px; width: auto;" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></td>
+			<td><img style="height: 50px; width: auto;" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></td>
+			<td><img style="height: 50px; width: auto;" src="https://docs.soliditylang.org/en/latest/_static/img/logo.svg" alt="Solidity" title="Solidity"/></td>
+			<td><img style="height: 50px; width: auto;" src="https://blog.mexc.com/wp-content/uploads/2023/01/OpenZeppelin.png" alt="Openzeppelin" title="Openzeppelin"/></td>
+			<td><img style="height: 50px; width: auto;" src="https://avatars.githubusercontent.com/u/72537454?s=280&v=4" alt="Cargo" title="Cargo"/></td>
+			<td><img style="height: 50px; width: auto;" src="https://avatars.githubusercontent.com/u/6250754?v=4&s=400" alt="Etherium" title="Etherium"/></td>
+			<td><img style="height: auto; width: 50px;" src="https://moonbeam.network/wp-content/uploads/2021/10/remix-500.png" alt="Remix" title="Remix"/></td>
 		</tr>
 	</table>
 </div>
@@ -92,7 +98,6 @@
 [![SujalChoudhari's GitHub | Topics Over Time](https://stats.quine.sh/SujalChoudhari/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujalChoudhari)
 [![SujalChoudhari's GitHub | Languages Over Time](https://stats.quine.sh/SujalChoudhari/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujalChoudhari)
 
-<img alt="(Metrices) - Reload Page to view Metrices" width="100%" src="https://metrics.lecoq.io/SujalChoudhari?template=classic&isocalendar=1&languages=1&lines=1&habits=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&gists=false&config.timezone=Asia%2FCalcutta"/>
 
 ## 🏆 GitHub Trophies
 <p align="center">
