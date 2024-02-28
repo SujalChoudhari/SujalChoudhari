@@ -2,17 +2,15 @@
 - 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year)
 - 🤝 I am always up for collabs and fun projects.
 - ✉️ Dm me for the same.
-- 🛌 I am comfortable with Python, C++,C#, Java and Javascript.
+- 🛌 My major Programming languages: C++, JavaScript, TypeScript, Python
 
 ##  🎖️Achievements:
 - 🥇 Winner in **Smart India Hackathon 23**
 - 🥇 Winner in **SPIT24** Hackathon by SPIT chapter of **Computer Society of India** 
 - 🥇 Winner in **Hackniche 2.0** Hackathon by DJSCE chapter of **Google Developer Student Club** 
 - 🥈 **TSECHacks24** Hackathon 1st Runner Up
+- 📖 Published books on Amazon and Gumroad. [(Get my free ebook about How to code any feature)](https://sujalvc.gumroad.com/l/code-any-feature)
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sujal_choudhari_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14603872) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sujal212004) 
 ## 🥇Badges
 [![An image of @sujalchoudhari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalchoudhari)](https://holopin.io/@sujalchoudhari)
 
