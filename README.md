@@ -1,8 +1,18 @@
 # <img src="https://lh3.googleusercontent.com/a/AAcHTtfQDIfhAd-iM3xnyuOF0_J_y8F-hNmSLdueYTFr4-JV68s=s30-c-no" style="border-radius:30px;transform:translateY(5px)" />  About Me:  <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
-- 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year)
-- 🤝 I am always up for collabs and fun projects.
-- ✉️ Dm me for the same.
-- 🛌 My major Programming languages: C++, JavaScript, TypeScript, Python
+
+<table>
+	<tr>
+		<td>
+			<img src="https://github.com/SujalChoudhari/SujalChoudhari/assets/85174767/b822a14b-346b-493c-a16d-cf8ec9098fd2)" width="400px" />
+		</td>
+		<td>
+			<li> 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year)
+			<li> 🤝 I am always up for collabs and fun projects.
+			<li> ✉️ Dm me for the same.
+			<li> 🛌 My major Programming languages: C++, JavaScript, TypeScript, Python
+		</td>
+	</tr>
+</table>
 
 ##  🎖️Achievements:
 - 🥇 Winner in **Smart India Hackathon 23**
