@@ -6,7 +6,7 @@
 			<img src="https://github.com/SujalChoudhari/SujalChoudhari/assets/85174767/b822a14b-346b-493c-a16d-cf8ec9098fd2)" width="400px" />
 		</td>
 		<td>
-			<li> 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year)
+			<li> 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Third Year)
 			<li> 🤝 I am always up for collabs and fun projects.
 			<li> ✉️ Dm me for the same.
 			<li> 🛌 My major Programming languages: C++, JavaScript, TypeScript, Python
