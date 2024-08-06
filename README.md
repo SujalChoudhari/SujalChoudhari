@@ -1,11 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=sujalchoudhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
 
 ##  🎖️About Me:
-- 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Third Year)
-- 🤝 I am always up for collabs and fun projects.
-- ✉️ Dm me for the same.
-- 🛌 My favoured Programming languages: C++, Python, TypeScript
-- 📖 Published books on Amazon and Gumroad. [(Get my free ebook about How to code any feature)](https://sujalvc.gumroad.com/l/code-any-feature)
+- 👨‍💻 I am Third Year student in Information Technology Student at Dwarkadas J. Sanghvi College of Engineering, Mumbai University.
+- ⌛ Haf a decade of experience in programming.
+- 🛌 My favoured Programming languages: C++, Python, TypeScript.
+- 📖 Published books on Amazon and Gumroad. [(Get my free ebooks)](https://sujalvc.gumroad.com)
 
 ##  🎖️Achievements:
 - 🥇 Winner in 100xEngineers x YourStory **GenAI Buildathon**
