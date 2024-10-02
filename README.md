@@ -2,7 +2,7 @@
 
 ##  🎖️About Me:
 - 👨‍💻 I am Third Year student in Information Technology Student at Dwarkadas J. Sanghvi College of Engineering, Mumbai University.
-- ⌛ Haf a decade of experience in programming.
+- ⌛ Half a decade of experience in programming.
 - 🛌 My favoured Programming languages: C++, Python, TypeScript.
 - 📖 Published books on Amazon and Gumroad. [(Get my free ebooks)](https://sujalvc.gumroad.com)
 
