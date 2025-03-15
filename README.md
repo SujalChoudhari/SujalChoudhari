@@ -7,9 +7,12 @@
 - 📖 Published books on Amazon and Gumroad. [(Get my free ebooks)](https://sujalvc.gumroad.com)
 
 ##  🎖️Achievements:
-- 🥇 Winner in 100xEngineers x YourStory **GenAI Buildathon**
 - 🥇 Winner in **Smart India Hackathon 24**
 - 🥇 Winner in **Smart India Hackathon 23**
-- 🥇 Winner in **SPIT24** Hackathon by SPIT chapter of **Computer Society of India** 
-- 🥇 Winner in **Hackniche 2.0** Hackathon by DJSCE chapter of **Google Developer Student Club** 
+- 🥇 Winner in 100xEngineers x YourStory **GenAI Buildathon**
+- 🥇 Taqneeqfest **AR/VR Storytelling Competetion** winner
+- 🥇 Winner in **SPIT24** Hackathon by SPIT chapter of **Computer Society of India**
+- 🥇 Winner in **Hackniche 3.0** Hackathon by DJSCE chapter of **Google Developer Student Club** and **DJSCE Synapse**
+- 🥇 Winner in **Hackniche 2.0** Hackathon by DJSCE chapter of **Google Developer Student Club** and **DJSCE Synapse**
 - 🥈 **TSECHacks24** Hackathon 1st Runner Up
+- 🥉 IIT-BHU ML hackathon Runner Up
