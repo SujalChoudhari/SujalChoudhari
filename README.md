@@ -12,6 +12,7 @@
 - 🥇 Winner in **Smart India Hackathon 23**
 - 🥇 Winner in 100xEngineers x YourStory **GenAI Buildathon**
 - 🥇 Taqneeqfest **AR/VR Storytelling Competetion** winner
+- 🥇 DJ INIT.AI **Data 2 Knowledge 3.0** winner with GenAI Domain
 - 🥇 Winner in **SPIT24** Hackathon by SPIT chapter of **Computer Society of India**
 - 🥇 Winner in **Hackniche 3.0** Hackathon by DJSCE chapter of **Google Developer Student Club** and **DJSCE Synapse**
 - 🥇 Winner in **Hackniche 2.0** Hackathon by DJSCE chapter of **Google Developer Student Club** and **DJSCE Synapse**
