@@ -15,6 +15,6 @@
 - 🥇 DJ INIT.AI **Data 2 Knowledge 3.0** winner with GenAI Domain
 - 🥇 Winner in **SPIT24** Hackathon by SPIT chapter of **Computer Society of India**
 - 🥇 Winner in **Hackniche 3.0** Hackathon by DJSCE chapter of **Google Developer Student Club** and **DJSCE Synapse**
-- 🥇 Winner in **Hackniche 2.0** Hackathon by DJSCE chapter of **Google Developer Student Club** and **DJSCE Synapse**
+- 🥈 Runner up in **Hackniche 2.0** Hackathon by DJSCE chapter of **Google Developer Student Club** and **DJSCE Synapse**
 - 🥈 **TSECHacks24** Hackathon 1st Runner Up
 - 🥉 IIT-BHU ML hackathon Runner Up
