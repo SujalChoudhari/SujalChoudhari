@@ -7,6 +7,7 @@
 - 📖 Published books on Amazon and Gumroad. [(Get my free ebooks)](https://sujalvc.gumroad.com)
 
 ##  🎖️Achievements:
+- 🥇 Winner in **Maha Hackathon Challenge 1.0** organised by **Digital India Bhashini Division**
 - 🥇 Winner in **IDEA Hackathon** organised by **Union Bank of India**
 - 🥇 Winner in **Smart India Hackathon 24**
 - 🥇 Winner in **Smart India Hackathon 23**
