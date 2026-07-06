@@ -5,7 +5,7 @@
 
 Software Developer and Published Author. I build compilers, low-level systems, trading infrastructure, and GenAI tools. My work spans systems programming, game development, and full-stack web.
 
-[Resume](https://sujal.xyz/resume) · [Books](https://sujalvc.gumroad.com) · dev@sujal.xyz
+[Resume](https://www.sujal.xyz/SujalChoudhari_Resume.pdf) · [Books](https://sujalvc.gumroad.com) · dev@sujal.xyz
 
 
 ## Stack
